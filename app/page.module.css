@@ -1,0 +1,48 @@
+
+
+
+
+.outerCircle__divTwo {
+  background-color: #FFD4AD;
+  width: 27.53px;
+  height: 27.53px;
+  border-radius: 50%;
+
+  position: absolute;
+  bottom: -13px;
+  right: 251px;
+}
+
+.outerCircle__divThree {
+  background-color: #FFD4AD;
+  width: 27.53px;
+  height: 27.53px;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 251px;
+  right: -14px;
+}
+
+.outerCircle__divFour {
+  background-color: #FFD4AD;
+  width: 27.53px;
+  height: 27.53px;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 251px;
+  left: -14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
